@@ -1,0 +1,21 @@
+CD Folder - intram in folder
+mkdir - create folder
+dir ( /a shows hidden folders in windows) - afisare dosar   LS - a ( linux, shows hidden folders)
+
+cd ..
+
+rmdir - deletes folder  
+rmdir /s - deletes foloder + folders
+
+del - deletes files
+
+node "file" - access file
+
+fs = nodejs module , allows to use files/folders that are found on the PC
+git clone link
+git status - status
+
+git add . -A
+git commit -m""
+git pull (update check)
+git push ( login and shiznit)

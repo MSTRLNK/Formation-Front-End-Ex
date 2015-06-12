@@ -15,7 +15,7 @@ fs = nodejs module , allows to use files/folders that are found on the PC
 git clone link
 git status - status
 
-git add . -A
-git commit -m""
+git add . -A (adding)
+git commit -m"" (message)
 git pull (update check)
 git push ( login and shiznit)
